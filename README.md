@@ -4,9 +4,12 @@ Problem Definition
 
 With the evolving nature of the job market, it is crucial to understand the dynamics of job postings on popular platforms such as LinkedIn. The LinkedIn Job Postings Dataset available on Kaggle offers a comprehensive view of different aspects of job postings, this serves as a valuable collection of data that can be used to generate insights for both job seekers and employers.
 
+
 Objective
 
 The primary objective of this project is to analyze, understand, and present the dynamics of the job market using the LinkedIn Job Postings Dataset. Through this analysis, stakeholders - job seekers, employers, educational institutions, students, and policymakers - can gain actionable insights into the job landscape.
+
+
 
 Data Description
 
@@ -20,6 +23,7 @@ employee_counts.csv: This file contains the employee and follower counts for eac
 benefits.csv: This file contains the benefits associated with each job.
 job_industries.csv: This file contains the industries associated with each job.
 job_skills.csv: This file contains the skills associated with each job.
+
 
 
 Project Solution Requirements
